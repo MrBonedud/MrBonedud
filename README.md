@@ -1,6 +1,6 @@
-- 👋 Hi, I’m MrBonedud
+- 👋 Hi, I’m Faisal, A Palestinian Computer Science student living in Jordan
 - 👀 I’m interested in Web Devolpment and Python
-- 🌱 I’m currently learning C++ and Python
+- 🌱 I’m currently learning C++ and Javascript
 - 📫 you can reach me on discord (mr_bonedud)
 
 
